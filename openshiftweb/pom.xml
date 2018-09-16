@@ -18,4 +18,5 @@
   <build>
     <finalName>openshiftweb</finalName>
   </build>
+  <!-- test -->
 </project>
